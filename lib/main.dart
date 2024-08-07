@@ -1,3 +1,4 @@
 import "package:flutter/material.dart";
+import "package:bloc/bloc.dart";
 
-void main() => 
+void main() => runApp(Home());
